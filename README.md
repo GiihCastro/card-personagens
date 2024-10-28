@@ -1,10 +1,10 @@
-# Super Power Girls Cards
+# Powerpuff Girls Cards
 
 ![Preview](assets/preview.png) 
 
 ## Descrição
 
-**Super Power Girls Cards** é uma aplicação simples que exibe cards dos personagens das Meninas Super Poderosas. Com uma interface intuitiva, os usuários podem visualizar informações sobre cada personagem de forma organizada e atraente.
+**Powerpuff Girls Cards** é uma aplicação simples que exibe cards dos personagens das Meninas Super Poderosas. Com uma interface intuitiva, os usuários podem visualizar informações sobre cada personagem de forma organizada e atraente.
 
 ## Funcionalidades
 
